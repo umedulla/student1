@@ -1,1 +1,10 @@
 hi everyone good afternoon
+welcome=input("enter welcome message")
+print("hi everyone")
+print('your mesg is')
+print(welcome)
+mesg='hello'
+hello
+how are you
+i am fine
+AGMRCET CSD VARUR
